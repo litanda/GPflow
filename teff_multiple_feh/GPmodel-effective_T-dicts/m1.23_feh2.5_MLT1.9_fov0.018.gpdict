@@ -1,0 +1,5 @@
+name,shape,dtype,value
+.kernel.kernels[0].variance,0,float64,5.4999913998338533e-08
+.kernel.kernels[1].variance,0,float64,0.458320614582083
+.kernel.kernels[1].lengthscale,0,float64,16.306932408291452
+.likelihood.variance,0,float64,2.620126338115335e-14
